@@ -1,2 +1,1 @@
-# Personal-Projects
-A repository where I document all my practice hands on labs/projects while learning Cybersecurity concepts
+Hands-on cybersecurity labs and projects, documented as I build them. I'm an M.S. Cybersecurity student (Harrisburg University of Science and Technology) focused on GRC, SOC operations, and security engineering. This repo is where the theory turns into practice.
