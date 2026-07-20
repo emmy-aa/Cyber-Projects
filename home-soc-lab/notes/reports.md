@@ -314,6 +314,17 @@ Running     WazuhSvc
 The Windows endpoint successfully appeared in the Wazuh Dashboard as an active agent.
 
 ---
+[Wazuh Dasboard]
+
+(https://github.com/emmy-aa/Cyber-Projects/blob/main/home-soc-lab/screenshots/wazuh/05-wazuh-dashboard.png)
+
+[Wazuh Dashboard for Mitre Attack]
+
+(https://github.com/emmy-aa/Cyber-Projects/blob/main/home-soc-lab/screenshots/wazuh/02-wazuh-mitre-attack-dashboard.png)
+
+[Wazuh Dashboard for Vulnerability Detection]
+
+(https://github.com/emmy-aa/Cyber-Projects/blob/main/home-soc-lab/screenshots/wazuh/09-wazuh-dashboard-vulnerability-detection.png)
 
 # Phase 6: Kali Linux Deployment
 
