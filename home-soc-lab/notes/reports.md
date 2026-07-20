@@ -141,8 +141,11 @@ Kali Linux:
 
 ---
 [Screenshots of the configuration for each VM]
+
 (https://github.com/emmy-aa/Cyber-Projects/blob/main/home-soc-lab/screenshots/infrastructure/06-kali-vm-configuration.png)
+
 (https://github.com/emmy-aa/Cyber-Projects/blob/main/home-soc-lab/screenshots/infrastructure/07-ubuntu-vm-configuration.png)
+
 (https://github.com/emmy-aa/Cyber-Projects/blob/main/home-soc-lab/screenshots/infrastructure/08-windows-vm-configuration.png)
 
 # Phase 2: Ubuntu Server and Wazuh Deployment
@@ -305,6 +308,8 @@ Status      Name
 ------      ----
 Running     WazuhSvc
 ```
+
+(https://github.com/emmy-aa/Cyber-Projects/blob/main/home-soc-lab/screenshots/wazuh/01-wazuh-running%20.png)
 
 The Windows endpoint successfully appeared in the Wazuh Dashboard as an active agent.
 
