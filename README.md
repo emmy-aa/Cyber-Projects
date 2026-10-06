@@ -34,8 +34,8 @@ A self-built Security Operations Center lab for hands-on detection and monitorin
 `SIEM Deployment & Administration` · `Threat Detection & Log Analysis` · `Endpoint Monitoring` · `Linux Administration` · `Windows Administration` · `VMware Virtualization` · `Network & DNS Troubleshooting` · `SOC Architecture Design`
  
 ## 📈 Credentials
-- Google: Foundations of Cybersecurity
-- Google: Play It Safe: Manage Security Risks
+- Google Cybersceurity Professional Certificate
+- CompTIA Security+ (In progress, 12/2026)
 ---
  
 ## 📌 What's Next
